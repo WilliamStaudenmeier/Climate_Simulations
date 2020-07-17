@@ -1,4 +1,4 @@
-# ClimateSimulations
+# Climate Simulations
 
 Did you know that climatologists are beginning to use #artificialintelligence and #machinelearning to fine tune their climate models? According to one such model by NOAA: National Oceanic & Atmospheric Administration, the world's sea level could rise by as much as six meters in the next 80 years as a result of global warming.
 
